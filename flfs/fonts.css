@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Gotham Book";
+    src: url("gotham/GothamBook.eot");
+    src: url("gotham/GothamBook.eot?#iefix") format("embedded-opentype"), url("gotham/GothamBook.woff2") format("woff2"),
+        url("gotham/GothamBook.woff") format("woff"), url("gotham/GothamBook.ttf") format("truetype"),
+        url("gotham/GothamBook.svg#GothamBook") format("svg");
+}
+
+@font-face {
+    font-family: "Gotham Light";
+    src: url("gotham/Gotham-Light.eot");
+    src: url("gotham/Gotham-Light.eot?#iefix") format("embedded-opentype"),
+        url("gotham/Gotham-Light.woff2") format("woff2"), url("gotham/Gotham-Light.woff") format("woff"),
+        url("gotham/Gotham-Light.ttf") format("truetype"), url("gotham/Gotham-Light.svg#Gotham-Light") format("svg");
+}
+
+@font-face {
+    font-family: "Gotham Medium";
+    src: url("gotham/Gotham-Medium.eot");
+    src: url("gotham/Gotham-Medium.eot?#iefix") format("embedded-opentype"),
+        url("gotham/Gotham-Medium.woff2") format("woff2"), url("gotham/Gotham-Medium.woff") format("woff"),
+        url("gotham/Gotham-Medium.ttf") format("truetype"), url("gotham/Gotham-Light.svg#Gotham-Medium") format("svg");
+}
+
+@font-face {
+    font-family: "Gotham Bold";
+    src: url("gotham/GothamBold.eot");
+    src: url("gotham/GothamBold.eot?#iefix") format("embedded-opentype"), url("gotham/GothamBold.woff2") format("woff2"),
+        url("gotham/GothamBold.woff") format("woff"), url("gotham/GothamBold.ttf") format("truetype"),
+        url("gotham/GothamBold.svg#GothamBold") format("svg");
+}
